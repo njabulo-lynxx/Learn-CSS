@@ -1,4 +1,5 @@
 <!-- Use CSS to create a Bootstrap "Get started" button and "Download" button-->
+ <!-- Use CSS to recreate these buttons from famous websites-->
 
 <style>
   .get-started-button {
@@ -11,6 +12,11 @@
     border-radius: 4px;
     margin-right: 10px;
     cursor: pointer;
+    transition: opacity 0.15s;
+  }
+
+  .get-started-button:hover {
+    opacity: 0.8;
   }
 
   .download-button {
@@ -22,6 +28,12 @@
     border-width: 1px;
     border-style: solid;
     cursor: pointer;
+    transition: background-color 0.15s, color 0.15s;
+  }
+
+  .download-button:hover {
+    background-color: rgb(108, 117, 125);
+    color: white;
   }
 
 </style>

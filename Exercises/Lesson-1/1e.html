@@ -1,4 +1,5 @@
 <!-- Use CSS to create a LinkedIn "Apply on company website" button and "Save" button-->
+ <!-- Use CSS to recreate these buttons from famous websites-->
 
 <style>
   .apply-button {
@@ -10,12 +11,18 @@
     width: 230px;
     border-radius: 20px;
     cursor: pointer;
+    transition: background-color 0.15s;
+  }
+
+  .apply-button:hover {
+    background-color: rgba(4, 4, 85, 0.918);
   }
 
   .save-button {
     background-color: white;
     color: rgb(10, 102, 194);
     font-weight: bold;
+    border-color: rgb(10, 102, 194);
     border-width: 1px;
     border-style: solid;
     height: 40px;
@@ -23,6 +30,11 @@
     border-radius: 20px;
     margin-left: 10px;
     cursor: pointer;
+    transition: border-width 0.15s;
+  }
+
+  .save-button:hover {
+    border-width: 2px;
   }
 </style>
 
