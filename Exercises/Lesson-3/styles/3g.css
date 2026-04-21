@@ -1,0 +1,30 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.user {
+  margin-bottom: 10px;
+}
+
+.organization {
+  font-weight: bold;
+}
+
+.account-name {
+  color: rgb(68, 66, 66);
+}
+
+.last-posted {
+  color: rgb(68, 66, 66);
+}
+
+.message {
+  width: 500px;
+  margin-bottom: 20px;
+}
+
+.tagged-user {
+  color: rgb(60, 176, 214);
+}

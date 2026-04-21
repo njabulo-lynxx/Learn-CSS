@@ -1,0 +1,20 @@
+p {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.apple-text {
+  margin-bottom: 20px;
+}
+
+.learn-more {
+  color: blue;
+}
