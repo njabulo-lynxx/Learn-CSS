@@ -1,0 +1,14 @@
+.back-next-button {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+
+.pagination {
+  text-decoration: underline;
+  border: none;
+  background-color: white;
+  color: blueviolet;
+}
