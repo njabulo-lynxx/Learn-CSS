@@ -1,0 +1,11 @@
+.search {
+  width: 500px;
+  border-radius: 250px;
+  border: 0;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.15);
+}
