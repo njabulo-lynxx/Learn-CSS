@@ -1,0 +1,32 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.thumbnail {
+  margin-bottom: 5px;
+  display: block;
+}
+
+.search-box {
+  margin-bottom: 5px;
+  display: block;
+}
+
+.video-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.video-author {
+  font-size: 14px;
+  color: rgb(88, 88, 88);
+  margin-bottom: 2px;
+}
+
+.video-stats {
+  font-size: 14px;
+  color: rgb(88, 88, 88);
+}
